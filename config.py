@@ -1,1 +1,1 @@
-TOKEN = '7165307040:AAFysRFoJz_BZVAih8HIdK2WPDlPOPoyBvE'
+TOKEN = 'tokent bot'
